@@ -9,12 +9,14 @@ Compatible with MSYS2/MINGW, Ubuntu 14.04.1 and Mac OS X
 
 You will need **SDL2** (http://www.libsdl.org):
 
-Linux:
-**$ apt-get install make gcc libsdl2-dev**
-Mac OS X:
-**$ brew install sdl2**
-MSYS2:
-**$ pacman -S mingw-w64-i686-SDL2** <- not tested
+Linux:<br>
+**$ apt-get install make gcc libsdl2-dev**<br>
+
+Mac OS X:<br>
+**$ brew install sdl2**<br>
+
+MSYS2:<br>
+**$ pacman -S mingw-w64-i686-SDL2** <- not tested<br>
   
 ## Compilation
 change to the Makefile Directory
