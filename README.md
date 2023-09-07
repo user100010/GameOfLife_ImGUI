@@ -35,6 +35,10 @@ or double click on **Game_of_Life_sdl2_opengl2**
 
 **$ make clean**
 
+## Screenshot
+
+![Screenshot](/Pic/Screenshot.png)
+
 
 
   
