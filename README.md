@@ -22,7 +22,7 @@ MSYS2:<br>
 change to the Makefile Directory
 then type:
 
-**$ make all**
+**$ make all**<br>
 **$ make clean_up**
 
 
