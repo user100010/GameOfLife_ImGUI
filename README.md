@@ -28,7 +28,7 @@ then type:
 
 ## Run Program
 
-**$ ./Game_of_Life_sdl2_opengl2** 
+**$ ./Game_of_Life_sdl2_opengl2**<br>
 or double click on **Game_of_Life_sdl2_opengl2**
 
 ## Delete programm
